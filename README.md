@@ -137,5 +137,5 @@ Set up monitoring and logging tools like Prometheus, Grafana, and ELK Stack to m
 - **Container Images**:
   - Docker Hub (repository for Docker images): [Docker Hub](https://hub.docker.com/)
 
-These resources cover a wide range of topics related to DevOps, including configuration management, continuous integration/continuous deployment (CI/CD), containerization, version control, cloud infrastructure, and more. Utilize these links to deepen your understanding, troubleshoot issues, and stay updated on best practices while implementing the DevOps lifecycle for Abode Software.
+These resources cover a wide range of topics related to DevOps, including configuration management, continuous integration/continuous deployment (CI/CD), containerization, version control, cloud infrastructure, and more. Utilize these links to deepen your understanding, troubleshoot issues, and stay updated on best practices while implementing the DevOps lifecycle.
 
