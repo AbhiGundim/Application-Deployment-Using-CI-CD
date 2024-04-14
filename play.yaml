@@ -1,0 +1,13 @@
+---
+- name: running tasks on localhost
+  hosts: localhost
+  become: true
+  tasks:
+  - name: executing script on master machine
+    script: master.sh
+- name: running tasks on slaves
+  hosts: all
+  become: true
+  tasks:
+  - name: executing script on slave machine
+    script: slave.sh
